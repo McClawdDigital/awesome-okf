@@ -24,14 +24,14 @@
 
 ## Contents
 
-- [What is OKF?](#what-is-okf)
+- [What is OKF](#what-is-okf)
 - [Bundles](#bundles)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Submit Your Bundle](#submit-your-bundle)
 - [Contributing](#contributing)
 
-## What is OKF?
+## What is OKF
 
 **Open Knowledge Format (OKF)** is a universal, vendor-neutral format for representing knowledge as plain markdown files with YAML frontmatter. Launched by [Google Cloud Platform](https://github.com/GoogleCloudPlatform/knowledge-catalog), OKF enables:
 
