@@ -1,5 +1,10 @@
 <div align="center">
   <h1>Awesome OKF</h1>
+  <p>
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome">
+    </a>
+  </p>
   <p>A curated list of awesome <strong>Open Knowledge Format (OKF)</strong> bundles, tools, and resources</p>
   <p>
     <a href="https://github.com/McClawdDigital/awesome-okf/stargazers">
@@ -128,7 +133,7 @@
 ### Official Google Bundles ☁️
 
 - [Google Knowledge Catalog (OKF Reference)](https://bundledex.net/bundles/google-knowledge-catalog) — Official GCP reference implementation of OKF *(0★)*
-- [Bitcoin Blockchain Bundle](https://bundledex.net/bundles/crypto-bitcoin-bundle) — Google's official OKF bundle for Bitcoin blockchain dataset *(0★)*
+|- [Bitcoin Blockchain Bundle](https://bundledex.net/bundles/crypto-bitcoin-bundle) — Google's official OKF bundle for Bitcoin Blockchain dataset *(0★)*
 - [GA4 E-Commerce Dataset](https://bundledex.net/bundles/ga4-ecommerce-bundle) — Google's official OKF bundle for GA4 e-commerce *(0★)*
 - [Stack Overflow Public Dataset](https://bundledex.net/bundles/stackoverflow-dataset-bundle) — Google's official OKF bundle for Stack Overflow dataset *(0★)*
 
@@ -153,7 +158,7 @@
 
 ## Submit Your Bundle
 
-Have an OKF bundle that should be on this list? 
+Have an OKF bundle that should be on this list?
 
 👉 **[Submit it on BundleDex](https://bundledex.net/submit)**
 
