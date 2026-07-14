@@ -147,6 +147,7 @@
 | **OKFy** | Convert docs to OKF bundles | [GitHub](https://github.com/0dust/OKFy) |
 | **OKF Go Parser** | Go parser/validator for OKF | [GitHub](https://github.com/dogmatiq/okf) |
 | **OKF Skill Toolkit** | Validate, query, lint, and create OKF bundles | [GitHub](https://github.com/ifuture-pro/okf-skill-toolkit) |
+| **okft** | Linter + MCP server: `okft lint` (spec conformance, CI-friendly) and `okft serve` (agent navigation) | [GitHub](https://github.com/PoorvaJ-WW/okft) |
 
 ## Resources
 
