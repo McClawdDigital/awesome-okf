@@ -54,22 +54,23 @@
 | 2 | [Lineage Skill](https://bundledex.net/bundles/lineage-skill) | [JuneYaooo](https://github.com/JuneYaooo/lineage-skill) | 267 | Distill videos, PDFs, transcripts into source-backed Agent Skills |
 | 3 | [echoes-vault-opencode](https://bundledex.net/bundles/echoes-vault-opencode) | [psinetron](https://github.com/psinetron/echoes-vault-opencode) | 143 | Persistent memory plugin for OpenCode |
 | 4 | [Claude Mega Brain](https://bundledex.net/bundles/claude-mega-brain) | [guhcostan](https://github.com/guhcostan/claude-mega-brain) | 105 | OKF-powered knowledge context for Claude Code |
-| 5 | [infra](https://bundledex.net/bundles/infra) | [okfn](https://github.com/okfn/infra) | 67 | OKF infrastructure and systems admin tools |
-| 6 | [OWOX Model Canvas](https://bundledex.net/bundles/owox-model-canvas) | [OWOX](https://github.com/OWOX/owox-model-canvas) | 65 | Visual editor for data models in OKF |
-| 7 | [cole-medin-ai-coding](https://bundledex.net/bundles/cole-medin-ai-coding) | [coleam00](https://github.com/coleam00/cole-medin-ai-coding) | 52 | OKF bundle of AI-coding video knowledge |
-| 8 | [OKFy](https://bundledex.net/bundles/okfy) | [0dust](https://github.com/0dust/OKFy) | 39 | Turn docs into agent-readable knowledge bundles |
-| 9 | [okf-knowledge](https://bundledex.net/bundles/okf-knowledge) | [sniperunder123](https://github.com/sniperunder123/okf-knowledge) | 39 | Portable Claude Code skill for OKF |
-| 10 | [Surface](https://bundledex.net/bundles/surface) | [Connorrmcd6](https://github.com/Connorrmcd6/surface) | 24 | Portable, always-fresh docs for agents and humans |
-| 11 | [fab-kit](https://bundledex.net/bundles/fab-kit) | [sahil87](https://github.com/sahil87/fab-kit) | 23 | Spec-driven development workflow for AI coding agents |
-| 12 | [Hermes OKF Memory](https://bundledex.net/bundles/hermes-okf) | [EliaszDev](https://github.com/EliaszDev/hermes-okf) | 21 | Universal OKF-based memory system for Hermes agent |
-| 13 | [OKF Harness](https://bundledex.net/bundles/okf-harness) | [pumblus](https://github.com/pumblus/okf-harness) | 17 | Agent-first local harness for OKF LLM Wikis |
-| 14 | [OKF Agentic Skills (Go)](https://bundledex.net/bundles/xsavik-okf-skills) | [xSAVIKx](https://github.com/xSAVIKx/okf-skills) | 15 | Go toolkit for creating OKF agentic skills |
-| 15 | [Kiso - OKF Publishing Engine](https://bundledex.net/bundles/kiso) | [oak-invest](https://github.com/oak-invest/kiso) | 11 | Turn OKF bundles into beautiful websites |
-| 16 | [OKF RAG](https://bundledex.net/bundles/okf-rag) | [killop](https://github.com/killop/okf-rag) | 11 | OKF-based Retrieval-Augmented Generation system |
-| 17 | [OKF Agent Protocol](https://bundledex.net/bundles/okf-agent) | [CryptoKonrad](https://github.com/CryptoKonrad/okf-agent) | 10 | Agent protocol for OKF bundle discovery and retrieval |
-| 18 | [Wiki as MCP](https://bundledex.net/bundles/wiki-as-mcp) | [northern-bear](https://github.com/northern-bear/wiki-as-mcp) | 10 | First general Wiki MCP following Google's OKF |
-| 19 | [OKF Conformance](https://bundledex.net/bundles/okf-conformance) | [yzfly](https://github.com/yzfly/okf-conformance) | 9 | OKF conformance testing suite |
-| 20 | [Knowledge Warden](https://bundledex.net/bundles/knowledge-warden) | [valentinegb](https://github.com/valentinegb/knowledge-warden) | 6 | Knowledge management system using OKF |
+| 5 | [okf-gem](https://bundledex.net/bundles/okf-gem) | [serradura](https://github.com/serradura/okf-gem) | 78 | Agent skill, CLI, and graph for authoring and reading OKF bundles |
+| 6 | [infra](https://bundledex.net/bundles/infra) | [okfn](https://github.com/okfn/infra) | 67 | OKF infrastructure and systems admin tools |
+| 7 | [OWOX Model Canvas](https://bundledex.net/bundles/owox-model-canvas) | [OWOX](https://github.com/OWOX/owox-model-canvas) | 65 | Visual editor for data models in OKF |
+| 8 | [cole-medin-ai-coding](https://bundledex.net/bundles/cole-medin-ai-coding) | [coleam00](https://github.com/coleam00/cole-medin-ai-coding) | 52 | OKF bundle of AI-coding video knowledge |
+| 9 | [OKFy](https://bundledex.net/bundles/okfy) | [0dust](https://github.com/0dust/OKFy) | 39 | Turn docs into agent-readable knowledge bundles |
+| 10 | [okf-knowledge](https://bundledex.net/bundles/okf-knowledge) | [sniperunder123](https://github.com/sniperunder123/okf-knowledge) | 39 | Portable Claude Code skill for OKF |
+| 11 | [Surface](https://bundledex.net/bundles/surface) | [Connorrmcd6](https://github.com/Connorrmcd6/surface) | 24 | Portable, always-fresh docs for agents and humans |
+| 12 | [fab-kit](https://bundledex.net/bundles/fab-kit) | [sahil87](https://github.com/sahil87/fab-kit) | 23 | Spec-driven development workflow for AI coding agents |
+| 13 | [Hermes OKF Memory](https://bundledex.net/bundles/hermes-okf) | [EliaszDev](https://github.com/EliaszDev/hermes-okf) | 21 | Universal OKF-based memory system for Hermes agent |
+| 14 | [OKF Harness](https://bundledex.net/bundles/okf-harness) | [pumblus](https://github.com/pumblus/okf-harness) | 17 | Agent-first local harness for OKF LLM Wikis |
+| 15 | [OKF Agentic Skills (Go)](https://bundledex.net/bundles/xsavik-okf-skills) | [xSAVIKx](https://github.com/xSAVIKx/okf-skills) | 15 | Go toolkit for creating OKF agentic skills |
+| 16 | [Kiso - OKF Publishing Engine](https://bundledex.net/bundles/kiso) | [oak-invest](https://github.com/oak-invest/kiso) | 11 | Turn OKF bundles into beautiful websites |
+| 17 | [OKF RAG](https://bundledex.net/bundles/okf-rag) | [killop](https://github.com/killop/okf-rag) | 11 | OKF-based Retrieval-Augmented Generation system |
+| 18 | [OKF Agent Protocol](https://bundledex.net/bundles/okf-agent) | [CryptoKonrad](https://github.com/CryptoKonrad/okf-agent) | 10 | Agent protocol for OKF bundle discovery and retrieval |
+| 19 | [Wiki as MCP](https://bundledex.net/bundles/wiki-as-mcp) | [northern-bear](https://github.com/northern-bear/wiki-as-mcp) | 10 | First general Wiki MCP following Google's OKF |
+| 20 | [OKF Conformance](https://bundledex.net/bundles/okf-conformance) | [yzfly](https://github.com/yzfly/okf-conformance) | 9 | OKF conformance testing suite |
+| 21 | [Knowledge Warden](https://bundledex.net/bundles/knowledge-warden) | [valentinegb](https://github.com/valentinegb/knowledge-warden) | 6 | Knowledge management system using OKF |
 
 > *See the [complete list of 218+ bundles](https://bundledex.net/) on BundleDex.*
 
@@ -88,6 +89,7 @@
 
 ### Developer Tools 🛠️
 
+- [okf-gem](https://bundledex.net/bundles/okf-gem) — Agent skill, CLI, and interactive graph covering a bundle's whole life *(78★)*
 - [OKFy](https://bundledex.net/bundles/okfy) — Turn docs into agent-readable knowledge bundles *(39★)*
 - [Surface](https://bundledex.net/bundles/surface) — Portable, always-fresh docs for agents and humans *(24★)*
 - [fab-kit](https://bundledex.net/bundles/fab-kit) — Structured, spec-driven development workflow for AI agents *(23★)*
