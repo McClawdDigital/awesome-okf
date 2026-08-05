@@ -147,6 +147,7 @@
 | **OKFy** | Convert docs to OKF bundles | [GitHub](https://github.com/0dust/OKFy) |
 | **OKF Go Parser** | Go parser/validator for OKF | [GitHub](https://github.com/dogmatiq/okf) |
 | **OKF Skill Toolkit** | Validate, query, lint, and create OKF bundles | [GitHub](https://github.com/ifuture-pro/okf-skill-toolkit) |
+| **agentscar** | Blameless postmortems for coding agents; logs guardrails to an in-repo OKF-compatible bundle | [GitHub](https://github.com/agentheavy/agentscar) |
 
 ## Resources
 
