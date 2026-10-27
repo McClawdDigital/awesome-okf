@@ -147,6 +147,7 @@
 | **OKFy** | Convert docs to OKF bundles | [GitHub](https://github.com/0dust/OKFy) |
 | **OKF Go Parser** | Go parser/validator for OKF | [GitHub](https://github.com/dogmatiq/okf) |
 | **OKF Skill Toolkit** | Validate, query, lint, and create OKF bundles | [GitHub](https://github.com/ifuture-pro/okf-skill-toolkit) |
+| **JidoSeal** | Free local OKF checker MCP. Optional paid certificates. MCP server is Apache-2.0; scan engine is not open source. | [GitHub](https://github.com/Jidoseal/jidoseal-mcp) |
 
 ## Resources
 
